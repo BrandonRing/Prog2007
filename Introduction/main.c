@@ -1,6 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+
+    int num;
+
+    num = 123456;
+
+
+    printf("num = %i\n\n", num);
+
+
     return 0;
 }

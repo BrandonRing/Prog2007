@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "E:/NSCC/Winter 2020/Prog2007/Programs/Introduction/main.c" "E:/NSCC/Winter 2020/Prog2007/Programs/Introduction/cmake-build-debug/CMakeFiles/Introduction.dir/main.c.obj"
+  "E:/NSCC/Winter 2020/Prog2007/Programs/Prog2007/Introduction/main.c" "E:/NSCC/Winter 2020/Prog2007/Programs/Prog2007/Introduction/cmake-build-debug/CMakeFiles/Introduction.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

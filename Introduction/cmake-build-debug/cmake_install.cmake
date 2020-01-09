@@ -1,4 +1,4 @@
-# Install script for directory: E:/NSCC/Winter 2020/Prog2007/Programs/Introduction
+# Install script for directory: E:/NSCC/Winter 2020/Prog2007/Programs/Prog2007/Introduction
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/NSCC/Winter 2020/Prog2007/Programs/Introduction/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/NSCC/Winter 2020/Prog2007/Programs/Prog2007/Introduction/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
